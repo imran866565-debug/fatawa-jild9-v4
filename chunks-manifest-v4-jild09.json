@@ -1,0 +1,207 @@
+{
+ "chunks": [
+  {
+   "chunk": "01",
+   "description": "Jild 9, pp. 6-107",
+   "end_page": 107,
+   "file": "jild-09-chunk-01.json",
+   "items": 16,
+   "pages_present": 30,
+   "start_page": 6,
+   "status": "done",
+   "verified": "2026-11-18 ~11:56 PKT — coordinator verified: 16 items, ids/titles/pages identical+order, vol 49, sp==min all, 0 empty jawab, empty sawal 2/2 (jild9-p6, jild9-p9, as v3), notes 24 vs 23 (+1), glosses 126x 'کا مطلب' + 26x 'کہتے ہیں', A1=0 (1 flag — Imam Ibn Hajar Makki \"فرمایا\" — false positive: Sunni imam cited as authority), A2 kept: ملعون p84, مردود/مطرود p87, گمراہ p90-91, فاضح p87, دیوبندیوں/کافر p98-99, اوہام p99, روافض/جھوٹ p106, جہالت/وہابیت/دیوبندیت/باطل/کافر p107, حماقت p101. Restoration: note added flagging the p.101 source garble \"بستر مرگ\" read as \"پسر کو ایک\" per context; v3's correct reading kept. Flags: pp.10-81 absent from source DB (preface gap, as in Jild 7 chunk 01) — v3 note preserved."
+  },
+  {
+   "chunk": "02",
+   "description": "Jild 9, pp. 108-158",
+   "end_page": 158,
+   "file": "jild-09-chunk-02.json",
+   "items": 14,
+   "pages_present": 51,
+   "start_page": 108,
+   "status": "done",
+   "verified": "2026-11-18 ~12:00 PKT — coordinator verified: 14 items, ids/titles/pages identical+order, vol 49, sp==min all, 0 empty jawab, empty sawal 4/4 (p109, p113, p120, p133, as v3), notes 34 vs 20 (+14), glosses 183x 'کا مطلب' + 23x 'کہتے ہیں', A1=0, A2 kept: باطل 9, حرام 25, ظلم 4, خبیث 2, ملعون 2, مردود 5, جھوٹ 7, گمراہ 2, گھٹیا 1, جہل 6. Restorations: باطل in p120 raised 1→3 real uses; باطل added twice in m23; ظلم 2nd occurrence added in m23; ابن حجر مکی's v3 \"رحمۃ اللہ تعالیٰ علیہ\" + \"فرمایا\" changed to plain \"کہا\" in p120 (objector role) and \"نقل کیا ہے\" in p133 (source citation). 'جاری ہے' once, the original's own sentence, also in v3. Flags: masala-24 remains جاری at p.159 per v3 note (next chunk continues it)."
+  },
+  {
+   "chunk": "03",
+   "description": "Jild 9, pp. 159-208",
+   "end_page": 208,
+   "file": "jild-09-chunk-03.json",
+   "items": 37,
+   "pages_present": 50,
+   "start_page": 159,
+   "status": "done",
+   "verified": "2026-11-18 ~12:00 PKT — coordinator verified: 37 items, ids/titles/pages identical+order, vol 49, sp==min all, 0 empty jawab, empty sawal 1/1 (jild9-p159, as v3), notes 33 vs 28 (+5), glosses 575x 'کا مطلب' + 29x 'کہتے ہیں', A1=0 (محمود حسن v3 \"فرمایا\" → \"کہا\"), A2 kept: جہال, فاسق, مرتکب کبیرہ, مستوجب سزائے شدید, مردود, شنیع, ظلم شدید, ایذائے عظیم, جہالت فاحشہ, جہل صریح, افترائے قبیح, جرأت مردود, جہل فاضح, افتراء, ہوسات عاطلہ و ادہام باطلہ, باطل و بے اصل, حرکات مردودہ, مثل سوئر; لعنتی/جہنمی/کتا/زندیق/کذاب absent from original here, correctly absent in v4. A3: 6 first-use gaps fixed (مشائخ، باغی/رہزن in m29، حماقت، ہجڑہ، ولایت عامہ، مکروہ). Restorations: m61 sawal — \"وہ بعید ہے\" + \"کتبہ عزیز الرحمان\" (p.198); m44 Arabic opening (p.186); m29 فانما علیك اثم (p.163); m32 ولا حول ولا قوۃ الا باللہ العلی العظیم (p.168); m51 closing durood (p.192). Flags: none."
+  },
+  {
+   "chunk": "04",
+   "description": "Jild 9, pp. 210-268",
+   "end_page": 268,
+   "file": "jild-09-chunk-04.json",
+   "items": 11,
+   "pages_present": 59,
+   "start_page": 210,
+   "status": "done",
+   "verified": "2026-11-18 ~12:00 PKT — coordinator verified: 11 items, ids/titles/pages identical+order, vol 49, sp==min all, 0 empty jawab, empty sawal 0/0 (as v3), notes 31 vs 30 (+1), glosses 291x 'کا مطلب' + 15x 'کہتے ہیں', A1=0 (1 flag — \"اعلیٰ حضرت نے فرمایا کہ یہ تو حضراتِ منکرین پر…\" — false positive, subject Ala Hazrat), A2 kept: جہالت و سفاہت, سفہا, معتزلی/معتزلہ, نجدیہ, منکرین, ذلتِ کبیرہ, مجانین, مکابرہ/مقیاس الجنون, بے مایہ, مغالطہ, گستاخی, تشنیع, باطل, اوہام, وہابیہ, تلمیعِ سحیق; original \"کتا\" x31 all false positives (کتاب/سکتا). Restoration: masala-64 — original's \"معتزلہ خذلہم اللہ تعالیٰ\" restored as \"معتزلہ — اللہ انہیں ذلیل کرے —\" (dropped in v3), flagged in added note. Flags: none."
+  },
+  {
+   "chunk": "05",
+   "description": "Jild 9, pp. 270-316",
+   "end_page": 316,
+   "file": "jild-09-chunk-05.json",
+   "items": 2,
+   "pages_present": 47,
+   "start_page": 270,
+   "status": "done",
+   "verified": "2026-11-18 ~12:04 PKT — coordinator verified: 2 items (mega-masala 83, pp.270-315 + masala-84, pp.315-316), ids/titles/pages identical+order, vol 49, sp==min all, 0 empty jawab, empty sawal 0/0 (as v3), notes 10 vs 7 (+3), glosses 334x 'کا مطلب' + 2x 'کہتے ہیں', A1=0, A2 kept: گمراہ/بدمذہب/جاہل/جہل/سفاہت/بیباکی/افترا/مہمل/جہالت/ظالم/مبطلین/متکبر; لعنتی/جہنمی/کتا/خبیث/ملعون/زندیق/کذاب/احمق/بیوقوف/ہذیان/مردود absent from original pp.270-316 (all \"کتا\" hits are \"ہو سکتا\" substrings). Restorations: Arabic hamd, Hidaya, Fath al-Qadir, Mabsoot, 20+ hadith/Quran Arabic passages restored from original pp.271-316; \"حین = موت\" hashiya (p.279) added as note; opponent honorifics stripped (صاحب/میاں/شیخ الکل/حضرت/بزرگوار) with a note. Flags: none. NOTE: first worker 1e92c733 died on token-cap truncation with no file; this is the fresh re-spawn's file."
+  },
+  {
+   "chunk": "06",
+   "description": "Jild 9, pp. 318-368",
+   "end_page": 368,
+   "file": "jild-09-chunk-06.json",
+   "items": 10,
+   "pages_present": 51,
+   "start_page": 318,
+   "status": "done",
+   "verified": "2026-11-18 ~12:00 PKT — coordinator verified: 10 items, ids/titles/pages identical+order, vol 49, sp==min all, 0 empty jawab, empty sawal 9/9 (as v3), notes 28 vs 26 (+2), glosses 226x 'کا مطلب' + 0x 'کہتے ہیں', A1=0 (1 flag — \"فرمایا\" subject is ابن الاثیر, Sunni — false positive), A2 kept: فاسد 5, منافق 3, تثلیث 3, تجاہل 3, کذاب 2, مجہول 4, جاہلان بیخرد 1, نادان قوم 1, جہالت شدیدہ 4, جہل قبیح 1, ظلم صریح 1, ناہنجار 2, کورانہ 2, باطل 8; orig \"کتا\" 43 vs v3 40 was all کتاب substrings. Restorations (3, all flagged): p.352 hashiya \"فاسد مذہب کے پیشوا ابن تیمیہ\"; p.353 hashiya \"طبرانی کی روایت میں یہ کہنے والا ایک منافق تھا\"; p.359 hashiya \"محض جہل یا تجاہل\" + \"شوکانی کا ایہام تثلیث محض باطل\" + ابن الاثیر اسد الغابہ passage — all body-missing in v3. 'جاری ہے' once, legitimate boundary note, also in v3. Flags: first id is the combined range jild9-masala-85-87 (v3 id, kept exactly)."
+  },
+  {
+   "chunk": "07",
+   "description": "Jild 9, pp. 369-429",
+   "end_page": 429,
+   "file": "jild-09-chunk-07.json",
+   "items": 45,
+   "pages_present": 61,
+   "start_page": 369,
+   "status": "done",
+   "verified": "2026-11-18 ~12:00 PKT — coordinator verified: 45 items, ids/titles/pages identical+order, vol 49, sp==min all, 0 empty jawab, empty sawal 1/1 (jild9-p369, as v3), notes 24 vs 23 (+1), glosses 571x 'کا مطلب' + 13x 'کہتے ہیں', A1=0 (coordinator flag — \"اسمٰعیل زاہدی نے … نص فرمایا\" — false positive: Zahidi is a Sunni Hanafi authority here, not a listed opponent, same class as the Lucknowi judgement), A2 kept: کذاب 1→2, خبیث 1→2, مردود 3→5, گمراہ 1→2, فاسد 4→5, باطل 6→7, خیانت 5→6, تحریف 7→8, افترا 3→4, سفاہت 4→5, تناقض 2→4, بدعت 8→13, جیفہ/مردار/کتے کی طرح (m109) all kept; v4 excess counts are gloss definitions. Restoration: m123 — original p.409 Arabic «فسعیہ مردود علیہ» — مردود restored, flagged in note. 'جاری ہے' once, the original's own sentence, also in v3. Flags: none. Last id jild9-masala-138-alif; masala-138 continues in chunk 08 as plain jild9-masala-138 (v3 ids)."
+  },
+  {
+   "chunk": "08",
+   "description": "Jild 9, pp. 430-484",
+   "end_page": 484,
+   "file": "jild-09-chunk-08.json",
+   "items": 9,
+   "pages_present": 55,
+   "start_page": 430,
+   "status": "done",
+   "verified": "2026-11-18 ~12:01 PKT — coordinator verified: 9 items, ids/titles/pages identical+order, vol 49, sp==min all, 0 empty jawab, empty sawal 3/3 (p441, p457, p477, as v3), notes 21 vs 18 (+3), glosses 39x 'کا مطلب' + 4x 'کہتے ہیں' (+467x \"یعنی\" doing definitional work — spot-checked 20 hard words, every genuine Rule-1 word glossed at first use; pattern mix differs from other chunks, substance passes), A1=0 (1 flag — \"پھر فرماتے ہیں کہ وہابیہ روسیاہ…\" — false positive, subject Ala Hazrat), A2 kept: روسیاہ 2/2, ضلالت restored, ملاعنہ 1, ہزار تف 1, بددینی 2; no real کتا insult either side. Restorations (v3-dropped): opponent book list (Nadjdi Mulla Ismail Dehlvi / Siddiq Hasan Bhopali / Khurram Ali / Rashid Gangohi), اکابر ملاعنہ, بڑی ضلالت اور گمراہی, وہابیہ روسیاہ x2 + ہزار تف sentence, Nadwa hashiya 12 (بددینی اور ضلالت). Flags: none. First id plain jild9-masala-138 (v3 id)."
+  },
+  {
+   "chunk": "09",
+   "description": "Jild 9, pp. 486-540",
+   "end_page": 540,
+   "file": "jild-09-chunk-09.json",
+   "items": 19,
+   "pages_present": 55,
+   "start_page": 486,
+   "status": "done",
+   "verified": "2026-11-18 ~12:00 PKT — coordinator verified: 19 items, ids/titles/pages identical+order, vol 49, sp==min all, 0 empty jawab, empty sawal 0/0 (as v3), notes 18 vs 11 (+7), glosses 345x 'کا مطلب' + 9x 'کہتے ہیں', A1=0 (4 flags all \"پھر فرماتے ہیں کہ زید نے…\" — subject Ala Hazrat, false positives; one real v3 hit fixed — \"زید اس کی توجیہ یہ فرماتے ہیں\" → \"کہتا ہے\"), A2 kept: زندیق 3/2, مردود 2/1, سفیہ 2/1, گمراہ 4/2, جہنمی 1/1, خبیث 2/1, وہابی 12/8, کافر 6/7 (gaps are Arabic-only renderings / gloss repetitions). Restorations (masala 149): ص 488 \"میں الحمد للہ وہابی ہوں\"؛ ص 496 سفیہ و نافہم؛ ص 499 \"کافر ہو جاتا ہے\"؛ ص 500 ردِّ وہابیہ خذلہم اللہ، ضلالت و گمراہی، بددین ملحد زندیق؛ ص 501 دوسرا زندیق + شعر \"کافر لگی ہوئی\"؛ ص 504 وہابی سوز؛ ص 509 رسالہ ردّ وہابیہ؛ ص 515 مردود؛ ص 519 آیت یُصَبُّ مِنْ فَوْقِ رُءُوْسِهِمُ الْحَمِیْمُ؛ ص 495 فتاویٰ آرائش passage. Arabic restored: 165, 167, 178-179, 154, 159, 163, 168, p529. Flags: none."
+  },
+  {
+   "chunk": "10",
+   "description": "Jild 9, pp. 542-600",
+   "end_page": 600,
+   "file": "jild-09-chunk-10.json",
+   "items": 10,
+   "pages_present": 58,
+   "start_page": 542,
+   "status": "done",
+   "verified": "2026-11-18 ~12:00 PKT — coordinator verified: 10 items, ids/titles/pages identical+order, vol 49, sp==min all, 0 empty jawab, empty sawal 0/0 (as v3), notes 21 vs 20 (+1), glosses 185x 'کا مطلب' + 11x 'کہتے ہیں', A1=0 (\"امام الطائفہ\" kept as the original's own label — same judgement as Jild 8 chunk 03), A2 kept: سفیہ جاہل (p571), ضال (p571), جہالتِ فاحشہ / سفاہت / سخافت / حماقت / جزافت / ضلالِ بعید / شدید اعتزال (p593), کذاب (p596), ملعون لفظ + وہابیہ اصلاً مسلمان نہیں (p600), احمق (p552), لعنت حدیث (pp.553/564), تلون (p574). Fixes: 183 exact \"سفیہ\" and \"ضال\" restored (v3 had only \"بے وقوف / گمراہ\"); 188 v3 error \"ترویج\" corrected to original's \"ترویح\" (p598), flagged in note. Flags: p569 absent from source DB (v3 note kept); masala-196 continues past p600 into next chunk (v3 note kept); the p600 \"جائز وگناہ\" print ambiguity note kept for the next chunk's verifier."
+  },
+  {
+   "chunk": "11",
+   "description": "Jild 9, pp. 601-661",
+   "end_page": 661,
+   "file": "jild-09-chunk-11.json",
+   "items": 46,
+   "pages_present": 60,
+   "start_page": 601,
+   "status": "done",
+   "verified": "2026-11-18 ~11:59 PKT — coordinator verified: 46 items, ids/titles/pages identical+order, vol 49, sp==min all, 0 empty jawab, empty sawal 1/1 (198-tail, as v3), notes 34 vs 32 (+2), glosses 183x 'کا مطلب' + 22x 'کہتے ہیں', A1=0 (coordinator wider grep incl. دیوبندی/وہابی: 3 flags, all false positives — verb's subject is Ala Hazrat or the Prophet ﷺ), A2 kept: مردود 12=12, سفیہ 1=1, رافضی 7=7, نادان 1=1, بے عقل 1=1, خبیث 2 (v3 1 — Arabic + Urdu now both counted), حرام 27=v3 27, کافر 18 vs v3 16 (Arabic/Urdu double-render). Restorations: masala-260 two dropped v3 sentences reinstated (Imam Ahmad \"حلال و حرام میں شدت / فضائل میں نرمی\" and \"عقائد میں صحاح ظنیات مردود\" — مردود 11→12, حرام 26→27); masala-241 \"ویلمی\" → \"دیلمی\" per the Arabic سند (الدیلمی), flagged in note; masala-256 note that \"نفس خبیث\" is the Urdu rendering of Arabic \"النفس الخبیثۃ\" (one phrase, not two). Flags: p.611 absent from source DB (v3 note kept). First id is v3's own jild9-masala-198-tail."
+  },
+  {
+   "chunk": "12",
+   "description": "Jild 9, pp. 663-695",
+   "end_page": 695,
+   "file": "jild-09-chunk-12.json",
+   "items": 16,
+   "pages_present": 32,
+   "start_page": 663,
+   "status": "done",
+   "verified": "2026-11-18 ~12:01 PKT — coordinator verified: 16 items, ids/titles/pages identical+order, vol 49, sp==min all, 0 empty jawab, empty sawal 10/10 (as v3), notes 39 vs 34 (+5), glosses 316x 'کا مطلب' + 5x 'کہتے ہیں', A1=0 (worker fixed 11 opponent فرما-verbs to plain کہا/کہیے/بتائیے; coordinator grep 0 flags), A2 kept: لعنت (p668, 2x), نجدی شرک فروشوں (p686), کافر/مشرک/بدعتی بد مذہب (p689), عمائد و کبرائے منکرین (p689), فرعون بے عون + شقی (p695), غلو منکرین (p681), جہال (p692). Restorations: \"خرانِ بے عقل\" (p695) — v3 had misread it as \"خراب بے عقل\"; \"معاذ اللہ لعنت الہٰی سے پورا حصہ ملے\" (p668) — dropped in v3, restored. 'جاری ہے' x5, ALL legitimate (original's own sentences / boundary note), all also in v3. OPEN QUESTION (kept verbatim, not blocking): masala-270 reads \"تو غنی کو بھی لینا جائز نہیں\" in BOTH v3 and the DB original, but surrounding logic suggests the printed text may be \"جائز ہے\" — printed-book check needed (parent to decide; same class as Jild 3 masala-100). Flags: original p676 absent from source DB (v3 note kept)."
+  },
+  {
+   "chunk": "13",
+   "description": "Jild 9, pp. 696-740",
+   "end_page": 740,
+   "file": "jild-09-chunk-13.json",
+   "items": 21,
+   "pages_present": 45,
+   "start_page": 696,
+   "status": "done",
+   "verified": "2026-11-18 ~12:00 PKT — coordinator verified: 21 items, ids/titles/pages identical+order, vol 49, sp==min all, 0 empty jawab, empty sawal 20/21 (as v3; only jild9-p696 non-empty), notes 24 vs 20 (+4), glosses 272x 'کا مطلب' + 21x 'کہتے ہیں', A1=0 (2 flags — \"اعلی حضرت فرماتے ہیں\" subject Ala Hazrat; \"سچ فرمایا مولوی معنوی\" — Rumi, Sunni — both false positives), A2 kept: بیوقوفی restored (p696, was only in a v3 note), مردود 2, باطل 5, رکیک 2 kept; \"کتا\" 25 raw hits in original are false positives (کتاب etc.). Fixes: \"مولوی صاحب فرماتے ہیں\" → \"کہتا ہے\" (items p700, p702, p703, p706); \"تسلیم/التزام فرمالیں\" → \"کر لیں\"; \"تحسین فرمائی\" → \"تحسین کی\". Restorations: p696 گوسالہ/بلادت/بیوقوفی تتمہ explained in tashreeh_sawal (was note-only in v3). 'جاری ہے' x2, legitimate, also in v3. Flags: the سو ائمہ list ends mid-name (no. 36, محمد بن احمد بن...) at p740 as in the original — continues in chunk 14."
+  },
+  {
+   "chunk": "14",
+   "description": "Jild 9, pp. 741-785",
+   "end_page": 785,
+   "file": "jild-09-chunk-14.json",
+   "items": 18,
+   "pages_present": 45,
+   "start_page": 741,
+   "status": "done",
+   "verified": "2026-11-18 ~12:00 PKT — coordinator verified: 18 items, ids/titles/pages identical+order, vol 49, sp==min all, 0 empty jawab, empty sawal 18/18 (as v3), notes 22 vs 20 (+2), glosses 3x 'کا مطلب' + 175x 'کہتے ہیں', A1=0 (no فرمایا/فرماتے ہیں/رحمہ اللہ within 60 chars of any opponent name; Ismail Dehlvi appears 2x with no honorific verb), A2 kept: بدعتیوں کا قول (p746), ہر گمراہ (p745), جاہل باخبار و منکرِ دین (p754), سفاہاتِ مبتدعین (p762), جاہل ہٹ دھرم (p769), ان گمراہوں، غادری، زشتی، حبلی، جنفی (p774), منکرین (p775); no لعنتی/جہنمی/کتا in this range (3 \"کتا\" hits are \"سکتا ہے\" false positives). Restorations: Arabic of قول 1, قول 87, حدیثِ قدسی (انا عند ظن عبدی بی), حدیثِ شفاعت and ما راہ المسلمون حسنا… kept in Arabic with translation. 'جاری ہے' x2, legitimate, also in v3. Flags: none."
+  },
+  {
+   "chunk": "15",
+   "description": "Jild 9, pp. 786-827",
+   "end_page": 827,
+   "file": "jild-09-chunk-15.json",
+   "items": 8,
+   "pages_present": 41,
+   "start_page": 786,
+   "status": "done",
+   "verified": "2026-11-18 ~12:00 PKT — coordinator verified: 8 items, ids/titles/pages identical+order, vol 49, sp==min all, 0 empty jawab, empty sawal 8/8 (as v3), notes 23 vs 20 (+3), glosses 368x 'کا مطلب' + 23x 'کہتے ہیں', A1=0 (\"صاحب\" dropped after مولوی اسحاق, item 5 body; v3 note kept verbatim), A2 kept: کافر (p787), شقی لئیم + کلمہ مغضوبہ مبغوضہ (p806), ملعونہ (p809), کافر/گمراہ (p820), کفار و مشرکین + مشرک اعظم و کافر اکبر + مشرکوں کی نسل/اولاد/دادا/نانا + بھاری مشرک کٹر کافر (p826); \"کتا\" never occurs in original pp.786-827 (all 9 substring hits are کتاب). Restorations: p787 آیت یُثَبِّتُ اللّٰہُ… and p788 آیت اَلَا بِذِكْرِ اللّٰہِ… in Arabic (were Urdu-only in v3); نادِ علی Arabic moved from note into item-8 body (p826). 'جاری ہے' x4, all the original's own sentences, also in v3. Flags: p794 missing from source DB (v3 note kept); item 8 ends mid-sentence at p827, continues in next chunk."
+  },
+  {
+   "chunk": "16",
+   "description": "Jild 9, pp. 828-880",
+   "end_page": 880,
+   "file": "jild-09-chunk-16.json",
+   "items": 17,
+   "pages_present": 53,
+   "start_page": 828,
+   "status": "done",
+   "verified": "2026-11-18 ~12:00 PKT — coordinator verified: 17 items, ids/titles/pages identical+order, vol 49, sp==min all, 0 empty jawab, empty sawal 17/17 (as v3), notes 33 vs 33, glosses 445x 'کا مطلب' + 7x 'کہتے ہیں', A1=0 (2 flags — \"تربیت فرمائی\" subject Ghawth-e-Azam/Naqshband; \"اعلیٰ حضرت فرماتے ہیں کہ نواب صدیق حسن…\" subject Ala Hazrat — both false positives), A2 kept: گمراہ x10, باطل x18, مردود (p880 مطرود و مردود), فاسد (p855), سفہا/حماقت (p834), باطل کوش دشمن حق + معاند گمراہ + فرقہ گمراہ (p828-831), گرا ہوا لفظ / ناپاک مشرب (p838-840), شرم شرم شرم (p880); \"کتا\" hits in original pp.828-880 are all \"کتاب\" substrings. Restorations: مکابر/متعسف glossed (p841); p828 \"مکابر معاند\" kept via the original's own Urdu rendering \"باطل کوش دشمن حق\" (Rule 3 caution), now with glosses. 'جاری ہے' x2, the original's own sentences, also in v3. Flags: p877 ends \"زیادہ علم نہ تھا تو۔\" with the continuation carried only in its note, as in v3."
+  },
+  {
+   "chunk": "17",
+   "description": "Jild 9, pp. 881-915",
+   "end_page": 915,
+   "file": "jild-09-chunk-17.json",
+   "items": 16,
+   "pages_present": 35,
+   "start_page": 881,
+   "status": "done",
+   "verified": "2026-11-18 ~11:56 PKT — coordinator verified: 16 items, ids/titles/pages identical+order, vol 49, sp==min all, 0 empty jawab, empty sawal 16/16 (as v3), notes 20 vs 17 (+3), glosses 150x 'کا مطلب' + 5x 'کہتے ہیں', A1=0 (2 flags — verb's subject is Ala Hazrat — both false positives), A2 kept: مردود 5 (orig 4), گمراہ 2 (1), فاسد 2 (2), وہابی 4 (3), خبیث 2 (1), جاہل 2 (2), نابینا 3 (3), خبط 3 (2), افتراء 2 (1), مغرور 1 (1), معتزلہ 8 total incl. notes (8), سنگ سار/سفہاء/بدمذہب/ظالم kept; لعنتی/جہنمی/زندیق absent in the original pp.881-915, so absent in v4. Restorations: معتزلہ restored p.903, p.905, p.913 (v3 had dropped these), flagged in notes. 'جاری ہے' once, legitimate boundary note, also in v3. Flags: item jild9-p914 still ends mid-hadith (Tirmidhi sanad, p.915) — continues in chunk 18, as in v3."
+  },
+  {
+   "chunk": "18",
+   "description": "Jild 9, pp. 916-950",
+   "end_page": 950,
+   "file": "jild-09-chunk-18.json",
+   "items": 10,
+   "pages_present": 35,
+   "start_page": 916,
+   "status": "done",
+   "verified": "2026-11-18 ~11:56 PKT — coordinator verified: 10 items, ids/titles/pages identical+order, vol 49, sp==min all, 0 empty jawab, empty sawal 10/10 (as v3), notes 42 vs 32 (+10), glosses 254x 'کا مطلب' + 7x 'کہتے ہیں', A1=0 (2 flags — verb's subject is Ala Hazrat — both false positives), A2 kept: خبیثوں 1/1, ضالین 1/2, فاسد 1/2, کذاب 5/5, مفتری 3/4, وضاع 3/3, کذوب 1/1, مجہول 1/2, فجار 1/2, عیار 2/3, مردود 1/2, مخذول 1/2 (orig/v4); لعنتی/جہنمی/زندیق absent in the original pp.916-950, so absent in v4. Restorations: \"مذہب فاسد\" (hashiya, pp.921-929) and \"الوضاع الذوری\" (Arabic isnad, p.932) added to the body; per-item glosses added for عائدہ، نکیرین، ادراکِ مطلق، ترجیح، اعتزال. Flags: \"بیوقوفی\" appears once in v4 only as the definitional meaning of سفاہت — a gloss, not an added insult. No continues marker. No open items."
+  }
+ ],
+ "total_pages_present": 863,
+ "volume": "Jild 9",
+ "volume_ids": [
+  49
+ ]
+}
